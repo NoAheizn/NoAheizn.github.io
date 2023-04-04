@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknah_blog=self.webpackChunknah_blog||[]).push([[9848],{8594:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/Nah-blog/blog/tags/hola","allTagsPath":"/Nah-blog/blog/tags","count":1}')}}]);
