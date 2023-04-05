@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'NoAheizn',
-  tagline: 'Izuna is bot',
+  tagline: 'Izuna & NoA Blog & Developer(Programmer) story',
   favicon: 'img/ipixel.ico',
 
   // Set the production url of your site here
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'noaheizn', // Usually your GitHub org/user name.
-  projectName: 'nah-blog', // Usually your repo name.
+  projectName: 'Nah-blog', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
