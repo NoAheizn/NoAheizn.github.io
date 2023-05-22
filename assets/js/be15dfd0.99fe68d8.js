@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknah_blog=self.webpackChunknah_blog||[]).push([[6570],{2255:e=>{e.exports=JSON.parse('{"title":"\ud3ec\uc2a4\ud2b8 \ubaa9\ub85d","items":[{"title":"hello","permalink":"/Nah-blog/izuna/2023/04/04/hello"}]}')}}]);

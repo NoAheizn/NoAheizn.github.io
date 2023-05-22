@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknah_blog=self.webpackChunknah_blog||[]).push([[4674],{4021:a=>{a.exports=JSON.parse('[{"label":"izuna","permalink":"/Nah-blog/idoc/tags/izuna","count":1}]')}}]);
