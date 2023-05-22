@@ -10,7 +10,7 @@ const config = {
   tagline: 'Izuna & NoA Blog & Developer(Programmer) story',
   favicon: 'img/ipixel.ico',
   url: 'https://noaheizn.github.io',
-  baseUrl: '/',
+  baseUrl: '/Nah-blog/',
   organizationName: 'noaheizn', // Usually your GitHub org/user name.
   projectName: 'Nah-blog', // Usually your repo name.
   onBrokenLinks: 'throw',
