@@ -15,6 +15,7 @@ const config = {
   projectName: 'Nah-blog', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false,
   i18n: {
     defaultLocale: 'ko',
     locales: ['ko'],
