@@ -1,0 +1,80 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  line-height: normal;
+  font-size: initial;
+}
+
+.featureRow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.featureImg {
+  max-width: 100px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+}
+
+[data-theme='dark'] .featureImg {
+  box-shadow: 1px 1px 1px rgba(255,255,255,0.1);
+}
+
+.nerdFeature {
+  line-height: 0;
+  font-size: 0;
+}
+
+.nerdFeature img {
+  width: 100%;
+}
+
+
+
+@media screen and (max-width: 1500px) {
+  .nerdFeature {
+      height: calc(100vh - 90px);
+  }
+
+  .nerdFeature > img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+
+  }
+}
+
+@media screen and (max-width: 996px) {
+  .header {
+      padding: 2rem;
+  }
+}
+
+
+.buttonGroup {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  gap: 8px;
+}
+
+@media screen and (max-width: 996px) {
+  .buttonGroup {
+      flex-direction: column;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+

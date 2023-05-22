@@ -9,24 +9,12 @@ const config = {
   title: 'NoAheizn',
   tagline: 'Izuna & NoA Blog & Developer(Programmer) story',
   favicon: 'img/ipixel.ico',
-
-  // Set the production url of your site here
   url: 'https://noaheizn.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Nah-blog/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
+  baseUrl: '/',
   organizationName: 'noaheizn', // Usually your GitHub org/user name.
   projectName: 'Nah-blog', // Usually your repo name.
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'ko',
     locales: ['ko'],
@@ -113,6 +101,13 @@ const config = {
         respectPrefersColorScheme: false,
       },
       // Replace with your project's social card
+      announcementBar: {
+        id: 'announcementBar-2',
+        content: 'Thanks for visiting my blog!',
+        isCloseable: false,
+        textColor: '#fff',
+        backgroundColor: '#000',
+      },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Nah',
@@ -139,8 +134,8 @@ const config = {
           },
           {
             label: 'Blogs', position: 'left', type: 'dropdown', items: [
-              { to: '/noa', label: 'NoA\'s Blog' },
               { to: '/izuna', label: 'Izuna\'s Blog' },
+              { to: '/noa', label: 'NoA\'s Blog' },
             ]
           },
           {
