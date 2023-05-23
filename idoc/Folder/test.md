@@ -1,6 +1,6 @@
 ---
-id: test
-title: Test
+id: test2
+title: TestF
 authors: izuna
 tags: [izuna]
 keywords: [test]
