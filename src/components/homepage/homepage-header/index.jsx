@@ -36,8 +36,8 @@ const HomepageHeader = () => {
                 </p>
 
                 <button className="button button--secondary button--md">
-                    <Link href="/idoc/Test" className={styles.buttonLink}>
-                        Test
+                    <Link href="/izuna" className={styles.buttonLink}>
+                        Let's Go !
                     </Link>
                 </button>
             </div>

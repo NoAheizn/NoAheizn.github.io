@@ -9,7 +9,7 @@ const config = {
   title: 'NoAheizn', // 블로그 제목
   tagline: 'Izuna & NoA Blog & Developer(Programmer) story', // 블로그 한줄 설명
   favicon: 'img/ipixel.ico', // 블로그 아이콘
-  url: 'https://noaheizn.github.io', // 사용할 블로그 도메인 주소 (개인도메인 혹은 깃허브 홈페이지 링크)
+  url: 'https://izunya.dev', // 사용할 블로그 도메인 주소 (개인도메인 혹은 깃허브 홈페이지 링크)
   baseUrl: '/Nah-blog/', // 위의 링크에서 뒤에 붙는 주소 '/' 로 놔두면 위의 링크 그대로 블로그가 작동함.
   organizationName: 'noaheizn', // 깃허브 조직이름 및 사용자 이름
   projectName: 'Nah-blog', // 깃허브 레포지토리 이름
@@ -114,7 +114,7 @@ const config = {
         title: 'Nah', // 네비게이션 바 제목
         hideOnScroll: true, // 스크롤 시 네비게이션 바 숨김 여부
         logo: { // 네비게이션 바 로고
-          alt: 'Nah Logo', // src가 표시 안될ㄷ 때 대체 텍스트
+          alt: 'Nah Logo', // src가 표시 안될때 대체 텍스트
           src: 'img/ipixel.png', // 로고 이미지
           srcDark: 'img/ipixel.png', // 다크모드일 때 로고 이미지
         },
