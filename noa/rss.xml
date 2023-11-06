@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>NoAheizn Blog</title>
-        <link>https://noaheizn.github.io/Nah-blog/noa</link>
+        <link>https://bot.izunya.dev/noa</link>
         <description>NoAheizn Blog</description>
         <lastBuildDate>Tue, 04 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,12 +10,13 @@
         <language>kr</language>
         <copyright>Copyright © 2023 NoAheizn, written by Izuna</copyright>
         <item>
-            <title><![CDATA[hello]]></title>
-            <link>https://noaheizn.github.io/Nah-blog/noa/2023/04/04/hello</link>
-            <guid>https://noaheizn.github.io/Nah-blog/noa/2023/04/04/hello</guid>
+            <title><![CDATA[First]]></title>
+            <link>https://bot.izunya.dev/noa/2023/04/04/First</link>
+            <guid>https://bot.izunya.dev/noa/2023/04/04/First</guid>
             <pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[hello!]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="hello">hello!<a href="#hello" class="hash-link" aria-label="hello!에 대한 직접 링크" title="hello!에 대한 직접 링크">​</a></h2><p>22</p>]]></content:encoded>
+            <content:encoded><![CDATA[<h2 id="hello">hello!</h2>
+<p>:/</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

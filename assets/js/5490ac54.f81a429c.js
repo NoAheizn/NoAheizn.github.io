@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknah_blog=self.webpackChunknah_blog||[]).push([[9782],{4839:a=>{a.exports=JSON.parse('{"permalink":"/Nah-blog/izuna","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Izuna\'s Blog"}')}}]);
