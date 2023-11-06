@@ -7,10 +7,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula'); // 다크�
 /** @type {import('@docusaurus/types').Config} */ 
 const config = {
   title: 'NoAheizn', // 블로그 제목
-  tagline: 'Izuna & NoA Blog & Developer(Programmer) story', // 블로그 한줄 설명
+  tagline: 'Izuna & NoA Blog', // 블로그 한줄 설명
   favicon: 'img/ipixel.ico', // 블로그 아이콘
   url: 'https://bot.izunya.dev', // 사용할 블로그 도메인 주소 (개인도메인 혹은 깃허브 홈페이지 링크)
-  baseUrl: '/', // 위의 링크에서 뒤에 붙는 주소 '/' 로 놔두면 위의 링크 그대로 블로그가 작동함.
+  baseUrl: '', // 위의 링크에서 뒤에 붙는 주소 '/' 로 놔두면 위의 링크 그대로 블로그가 작동함.
   organizationName: 'noaheizn', // 깃허브 조직이름 및 사용자 이름
   projectName: 'noaheizn.github.io', // 깃허브 레포지토리 이름
   onBrokenLinks: 'throw', // 링크가 깨지면 에러를 던짐 (전체 작동불가)
@@ -18,7 +18,7 @@ const config = {
   trailingSlash: false, // 주소 끝에 '/'를 붙일것인지 여부
   i18n: {
     defaultLocale: 'ko', // 기본 언어
-    locales: ['ko','en','jp'], // 부가적으로 지원할 언어
+    locales: ['ko'], // 부가적으로 지원할 언어
   },
   markdown: { mermaid: true },
   themes: ['@docusaurus/theme-mermaid'], // 블로그 기본 테마
@@ -69,7 +69,7 @@ const config = {
         routeBasePath: 'idoc', // 문서 주소 (위의 baseUrl 뒤에 붙는 주소)
         sidebarPath: require.resolve('./sidebars.js'), // 사이드바 설정 파일
         docItemComponent: '@theme/DocItem', // 문서를 표시할 컴포넌트 테마
-        docLayoutComponent: '@theme/DocPage', // 문서 레이아웃을 표시할 컴포넌트 테마
+        // docLayoutComponent: '@theme/DocPage', // 문서 레이아웃을 표시할 컴포넌트 테마
         showLastUpdateAuthor: true, // 마지막 업데이트한 사람 표시 여부
         showLastUpdateTime: true, // 마지막 업데이트 시간 표시 여부
       }
