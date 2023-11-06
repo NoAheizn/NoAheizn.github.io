@@ -9,7 +9,7 @@ const config = {
   title: 'NoAheizn', // 블로그 제목
   tagline: 'Izuna & NoA Blog & Developer(Programmer) story', // 블로그 한줄 설명
   favicon: 'img/ipixel.ico', // 블로그 아이콘
-  url: 'https://noaheizn.github.io', // 사용할 블로그 도메인 주소 (개인도메인 혹은 깃허브 홈페이지 링크)
+  url: 'https://bot.izunya.dev', // 사용할 블로그 도메인 주소 (개인도메인 혹은 깃허브 홈페이지 링크)
   baseUrl: '/', // 위의 링크에서 뒤에 붙는 주소 '/' 로 놔두면 위의 링크 그대로 블로그가 작동함.
   organizationName: 'noaheizn', // 깃허브 조직이름 및 사용자 이름
   projectName: 'noaheizn.github.io', // 깃허브 레포지토리 이름
@@ -18,7 +18,7 @@ const config = {
   trailingSlash: false, // 주소 끝에 '/'를 붙일것인지 여부
   i18n: {
     defaultLocale: 'ko', // 기본 언어
-    locales: ['ko'], // 부가적으로 지원할 언어
+    locales: ['ko','en','jp'], // 부가적으로 지원할 언어
   },
   markdown: { mermaid: true },
   themes: ['@docusaurus/theme-mermaid'], // 블로그 기본 테마
