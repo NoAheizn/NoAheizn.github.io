@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bot.izunya.dev/izuna</id>
+    <id>https://blog.izunya.dev/izuna</id>
     <title>NoAheizn Blog</title>
     <updated>2023-05-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bot.izunya.dev/izuna"/>
+    <link rel="alternate" href="https://blog.izunya.dev/izuna"/>
     <subtitle>NoAheizn Blog</subtitle>
-    <icon>https://bot.izunya.dev/img/ipixel.ico</icon>
+    <icon>https://blog.izunya.dev/img/ipixel.ico</icon>
     <rights>Copyright © 2023 NoAheizn, written by Izuna</rights>
     <entry>
         <title type="html"><![CDATA[첫 시작]]></title>
-        <id>https://bot.izunya.dev/izuna/2023/05/23/firststart</id>
-        <link href="https://bot.izunya.dev/izuna/2023/05/23/firststart"/>
+        <id>https://blog.izunya.dev/izuna/2023/05/23/firststart</id>
+        <link href="https://blog.izunya.dev/izuna/2023/05/23/firststart"/>
         <updated>2023-05-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[시작한 계기]]></summary>
         <content type="html"><![CDATA[<h2 id="시작한-계기">시작한 계기</h2>
@@ -29,8 +29,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[hello]]></title>
-        <id>https://bot.izunya.dev/izuna/2023/05/22/hello</id>
-        <link href="https://bot.izunya.dev/izuna/2023/05/22/hello"/>
+        <id>https://blog.izunya.dev/izuna/2023/05/22/hello</id>
+        <link href="https://blog.izunya.dev/izuna/2023/05/22/hello"/>
         <updated>2023-05-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello Blog!]]></summary>
         <content type="html"><![CDATA[<h2 id="hello-blog">Hello Blog!</h2>

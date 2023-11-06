@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "NoAheizn Blog",
-    "home_page_url": "https://bot.izunya.dev/noa",
+    "home_page_url": "https://blog.izunya.dev/noa",
     "description": "NoAheizn Blog",
     "items": [
         {
-            "id": "https://bot.izunya.dev/noa/2023/04/04/First",
+            "id": "https://blog.izunya.dev/noa/2023/04/04/First",
             "content_html": "<h2 id=\"hello\">hello!</h2>\n<p>:/</p>",
-            "url": "https://bot.izunya.dev/noa/2023/04/04/First",
+            "url": "https://blog.izunya.dev/noa/2023/04/04/First",
             "title": "First",
             "summary": "hello!",
             "date_modified": "2023-04-04T00:00:00.000Z",

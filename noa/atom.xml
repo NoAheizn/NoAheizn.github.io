@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bot.izunya.dev/noa</id>
+    <id>https://blog.izunya.dev/noa</id>
     <title>NoAheizn Blog</title>
     <updated>2023-04-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bot.izunya.dev/noa"/>
+    <link rel="alternate" href="https://blog.izunya.dev/noa"/>
     <subtitle>NoAheizn Blog</subtitle>
-    <icon>https://bot.izunya.dev/img/ipixel.ico</icon>
+    <icon>https://blog.izunya.dev/img/ipixel.ico</icon>
     <rights>Copyright © 2023 NoAheizn, written by Izuna</rights>
     <entry>
         <title type="html"><![CDATA[First]]></title>
-        <id>https://bot.izunya.dev/noa/2023/04/04/First</id>
-        <link href="https://bot.izunya.dev/noa/2023/04/04/First"/>
+        <id>https://blog.izunya.dev/noa/2023/04/04/First</id>
+        <link href="https://blog.izunya.dev/noa/2023/04/04/First"/>
         <updated>2023-04-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[hello!]]></summary>
         <content type="html"><![CDATA[<h2 id="hello">hello!</h2>
