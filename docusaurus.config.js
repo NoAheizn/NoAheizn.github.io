@@ -109,7 +109,7 @@ const config = {
         backgroundColor: '#000', // 배경 색상
       },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg', // 링크 임베드에 표시할 이미지
+      image: 'img/ipixel.png', // 링크 임베드에 표시할 이미지
       navbar: { // 네비게이션 바
         title: 'Nah', // 네비게이션 바 제목
         hideOnScroll: true, // 스크롤 시 네비게이션 바 숨김 여부
