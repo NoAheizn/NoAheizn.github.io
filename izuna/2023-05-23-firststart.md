@@ -18,6 +18,6 @@
 
 그래서 계속 보다가 보면 볼수록 `나도 블로그 제작 한번 해볼까?`라는 생각이 갑자기 들어서 그 블로그의 템플릿이 무엇인지 물어보았다.
 
-[**`Facebook`**](https://github.com/facebook)에서 제작한 오픈 소스 프로젝트 **`Docusaurus`**라는 프로젝트를 사용한 간편 블로그 제작 템플릿이었다.
+[**`Facebook`**](https://github.com/facebook)에서 제작한 오픈 소스 프로젝트 `Docusaurus`라는 프로젝트를 사용한 간편 블로그 제작 템플릿이었다.
 
 나는 곧장 [Docusaurus](https://docusaurus.io)를 검색해서 공식 홈페이지에 들어가서 템플릿을 다운받아서 제작을 시작했다.
