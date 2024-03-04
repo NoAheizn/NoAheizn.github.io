@@ -8,7 +8,7 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>kr</language>
-        <copyright>Copyright © 2023 NoAheizn, written by Izuna</copyright>
+        <copyright>Copyright © 2024 NoAheizn, written by Izuna</copyright>
         <item>
             <title><![CDATA[첫 시작]]></title>
             <link>https://blog.izunya.dev/izuna/2023/05/23/firststart</link>
